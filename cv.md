@@ -10,27 +10,27 @@
 ## Summary: 
 * ##### Frequenter of physics and mathematics classes. He studied at the radio engineering college and at the BSU on the mechanics and mathematics. I like to think and discover new things for myself.
     
-##Skills:
-* #####JS(ES6)
-* #####HTML5
-* #####SCSS(CSS3)
-* #####BEM
-* #####Git
-* #####Angular
-* #####Jasmine/Karma
+## Skills:
+* ##### JS(ES6)
+* ##### HTML5
+* ##### SCSS(CSS3)
+* ##### BEM
+* ##### Git
+* ##### Angular
+* ##### Jasmine/Karma
     
-##Code examples:
+## Code examples:
 * ##### [Github](https://github.com/DmitryBogdan90)
 * ##### [Codewars](https://www.codewars.com/users/nxtspc)
     
-##Experience: 
-* #####Industrial software course from Itransition (after three months of internship where I wrote tests, fixed bugs in layout, created new angular components)
+## Experience: 
+* ##### Industrial software course from Itransition (after three months of internship where I wrote tests, fixed bugs in layout, created new angular components)
     
-##Education:
-* #####Radio Engineering College(electronics technician)
-* #####BSU(mechanics and mathematics)
-* #####Industrial software course from Itransition
-* #####Testing Angular Apps with Jasmine from udemy
+## Education:
+* ##### Radio Engineering College(electronics technician)
+* ##### BSU(mechanics and mathematics)
+* ##### Industrial software course from Itransition
+* ##### Testing Angular Apps with Jasmine from udemy
     
-##English:
-* #####[EF SET English Certificate 48/100 (B1 INTERMEDIATE)](https://www.efset.org/cert/NtNZMb)
+## English:
+* ##### [EF SET English Certificate 48/100 (B1 INTERMEDIATE)](https://www.efset.org/cert/NtNZMb)
