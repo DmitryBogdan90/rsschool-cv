@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 15px 0 0 0;
+}
+
+h1, h2 {
+    line-height: 24px;
+}
+
+body {
+    position: relative;
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+a, a:visited {
+    text-decoration: none;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+img {
+    position: absolute;
+    right: 10px;
+}
+
+li {
+    margin: 5px;
+}
+
+@media (max-width: 650px) {
+    img {
+        position: static;
+        padding-top: 10px;
+    }
+
+    h1 {
+        line-height: 35px;
+    }
+}
