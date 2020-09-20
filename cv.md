@@ -1,38 +1,36 @@
-1. Dmitry Bogdan
+# Dmitry Bogdan
 
-2. Contact Info:
-    https://www.linkedin.com/in/dmitry-bogdan-594b34173/
-    https://www.t.me/nextspace
-    mgblsttt@gmail.com
-    +37525 940 67 77    
+## Contacts:
     
-3. Summary: 
-    frequenter of physics and mathematics classes. He studied at the radio engineering college and at the BSU on the 
-    mechanics and mathematics. I like to think and discover new things for myself.
+* ##### +37525 940 67 77
+* ##### [LinkedIn](https://www.linkedin.com/in/dmitry-bogdan-594b34173/)
+* ##### [Telegram](https://www.t.me/nextspace)
+* ##### [Gmail](mailto:mgblsttt@gmail.com)
     
-4. Skills:
-    JS(ES6)
-    HTML5
-    SCSS(CSS3)
-    BEM
-    Git
-    Angular
-    Jasmine/Karma
+## Summary: 
+* ##### Frequenter of physics and mathematics classes. He studied at the radio engineering college and at the BSU on the mechanics and mathematics. I like to think and discover new things for myself.
     
-5. Code examples:
-    https://github.com/DmitryBogdan90
-    https://www.codewars.com/users/nxtspc
+##Skills:
+* #####JS(ES6)
+* #####HTML5
+* #####SCSS(CSS3)
+* #####BEM
+* #####Git
+* #####Angular
+* #####Jasmine/Karma
     
-6. Experience: 
-    Industrial software course from Itransition (after three months of internship where I wrote tests, fixed bugs in 
-    layout, created new angular components)
+##Code examples:
+* ##### [Github](https://github.com/DmitryBogdan90)
+* ##### [Codewars](https://www.codewars.com/users/nxtspc)
     
-7. Education:
-    Radio Engineering College(electronics technician)
-    BSU(mechanics and mathematics)
-    Industrial software course from Itransition
-    Testing Angular Apps with Jasmine from udemy
+##Experience: 
+* #####Industrial software course from Itransition (after three months of internship where I wrote tests, fixed bugs in layout, created new angular components)
     
-8. English:
-    EF SET English Certificate 48/100 (B1 INTERMEDIATE)
-    https://www.efset.org/cert/NtNZMb
+##Education:
+* #####Radio Engineering College(electronics technician)
+* #####BSU(mechanics and mathematics)
+* #####Industrial software course from Itransition
+* #####Testing Angular Apps with Jasmine from udemy
+    
+##English:
+* #####[EF SET English Certificate 48/100 (B1 INTERMEDIATE)](https://www.efset.org/cert/NtNZMb)
