@@ -24,13 +24,14 @@
 * ##### [Codewars](https://www.codewars.com/users/nxtspc)
     
 ## Experience: 
-* ##### Industrial software course from Itransition (after three months of internship where I wrote tests, fixed bugs in layout, created new angular components)
+* ##### Industrial software course from Itransition (after three months of internship where I wrote tests, fixed bugs in layout, created new angular components: 09.2019-11.2019) 
     
 ## Education:
-* ##### Radio Engineering College(electronics technician)
-* ##### BSU(mechanics and mathematics)
-* ##### Industrial software course from Itransition
-* ##### Testing Angular Apps with Jasmine from udemy
+* ##### Radio Engineering College(electronics technician): 2006-2011
+* ##### BSU(mechanics and mathematics): 2015-2020
+* ##### Industrial software course from Itransition: 05.2019-07.2019
+* ##### Testing Angular Apps with Jasmine from udemy: 10.2019
+* ##### Rolling Scopes School(Frontend JS): 09.2020-Present time
     
 ## English:
 * ##### [EF SET English Certificate 48/100 (B1 INTERMEDIATE)](https://www.efset.org/cert/NtNZMb)
