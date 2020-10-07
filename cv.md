@@ -8,7 +8,7 @@
 * ##### [Gmail](mailto:mgblsttt@gmail.com)
     
 ## Summary: 
-* ##### Frequenter of physics and mathematics classes. He studied at the radio engineering college and at the BSU on the mechanics and mathematics. I like to think and discover new things for myself.
+* ##### Frequenter of physics and mathematics classes. I studied at the radio engineering college and at the BSU on the mechanics and mathematics. I like to think and discover new things for myself.
     
 ## Skills:
 * ##### JS(ES6)
